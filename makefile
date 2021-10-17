@@ -1,7 +1,7 @@
 LEX = ocamllex
 YACC = ocamlyacc
 OCAML_COMPILER = ocamlc
-FINAL_EXEC = assignment6
+FINAL_EXEC = PrologInterpreter
 LEX_FILE_1 = lexFile1
 LEX_FILE_2 = lexFile2
 YACC_FILE_1 = yaccFile1
